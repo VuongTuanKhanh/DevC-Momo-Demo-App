@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "cate": "Cơm",
+        "url": "https://beptruong.edu.vn/wp-content/uploads/2018/09/pha-nuoc-mam-com-tam.jpg"
+    },
+    {
+        "id": 2,
+        "cate": "Đồ Ăn Nhanh",
+        "url": "https://www.kfc.com.au/sites/default/files/WEBSITE_CATERING_768x432px_V2.jpg"
+    },
+    {
+        "id": 3,
+        "cate": "Phở",
+        "url": "http://cafefcdn.com/2018/7/19/photo-2-1531984647242593960017.png"
+    },
+    {
+        "id": 4,
+        "cate": "Trà Sữa",
+        "url": "https://vietblend.vn/wp-content/uploads/2018/12/1-mango-gong-cha-15245924876811469988245.jpg"
+    },
+    {
+        "id": 5,
+        "cate": "Món Hàn",
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/181114125847-korean-food-2620003201012137k-kimchi-assortment-full-169.jpg"
+    },
+    {
+        "id": 6,
+        "cate": "Món Nhật",
+        "url": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg"
+    }
+]

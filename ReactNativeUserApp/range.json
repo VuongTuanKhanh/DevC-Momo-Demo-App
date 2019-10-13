@@ -1,0 +1,32 @@
+[
+    {
+        "value": "250m",
+        "delta": 0.0022727,
+        "radius": 250
+    },
+    {
+        "value": "500m",
+        "delta": 0.0045454,
+        "radius": 500
+    },
+    {
+        "value": "750m",
+        "delta": 0.0068181,
+        "radius": 750
+    },
+    {
+        "value": "1km",
+        "delta": 0.0090909,
+        "radius": 1000
+    },
+    {
+        "value": "2km",
+        "delta": 0.0181818,
+        "radius": 2000
+    },
+    {
+        "value": "5km",
+        "delta": 0.0454545,
+        "radius": 5000
+    }
+]
