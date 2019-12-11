@@ -1,3 +1,3 @@
-# DevC Final Proj: Momo Challenge
+# DevC Final Project: Momo Challenge
 
-A repo to manage source code of "Ngu Long Nhat The" team.
+**Copyright © 2019 KANTA All rights reserved.**
